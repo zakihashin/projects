@@ -1,0 +1,16 @@
+#file1 = "hello.txt"
+#filecontrol = open("hello.txt","r")
+#filecontents = filecontrol.read()
+#print(filecontents)
+#filecontents = filecontents.replace("~name~","Zaki")
+#filecontents = filecontents.replace("~year~","2024")
+#filefinish = filecontents
+#print(filefinish)
+#results = open("results.txt","w+")
+#results.write(filecontents)
+#results.close()
+#filecontrol.close()
+add1 = (12 + 23)
+print(add1)
+addfinal = add1.replace(12 , 52)
+print(addfinal)
